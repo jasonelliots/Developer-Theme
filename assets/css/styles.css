@@ -121,7 +121,7 @@ a.dotted-link:hover {
   border-top: 10px solid #778492;
 }
 .header .btn {
-  margin-top: 60px;
+  margin-top: 35px;
   font-weight: bold;
 }
 .header .profile-image {
@@ -375,13 +375,13 @@ a.dotted-link:hover {
   margin-bottom: 30px;
 }
 .skills .skillset .item {
-  margin-bottom: 30px;
+  margin-bottom: 13px;
 }
 .skills .skillset .level-title {
   font-size: 16px;
   position: relative;
   margin-top: 0;
-  margin-bottom: 10;
+  margin-bottom: 5;
 }
 .skills .skillset .level-title .level-label {
   color: #ccd1d6;

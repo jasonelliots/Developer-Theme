@@ -1,7 +1,10 @@
 Simple Portfolio Site 
 
 ## To Do
-- Update profile image for mobile responsiveness 
+- drop in my content 
+- reformat skills section to two columns - should be simple 2 div flexbox situation 
+- Change font 
+- update site title + favicon
 - Update readme 
 
 ## Features

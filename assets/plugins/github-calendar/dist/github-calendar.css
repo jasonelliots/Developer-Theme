@@ -50,8 +50,9 @@
 }
 
 .calendar-graph {
-    padding: 5px 0 0;
-    height: 126px;
+    padding: 10px 10px;
+    /* height: 126px; */
+    width: 100%; 
     text-align: center;
 }
 
