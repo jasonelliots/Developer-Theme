@@ -7,6 +7,10 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+// * {
+//     border: 1px solid black; 
+// }
+
 h1, h2, h3, h4, h5, h6  {
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
@@ -101,6 +105,9 @@ a.dotted-link {
     }
     .profile-image {
         margin-right: 30px;
+        width: 15%;
+        border-radius: 3%; 
+
     }
     .profile-content {
         

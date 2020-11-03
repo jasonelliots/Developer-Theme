@@ -1,5 +1,9 @@
 Simple Portfolio Site 
 
+## To Do
+- Update profile image for mobile responsiveness 
+- Update readme 
+
 ## Features
 
 -  Fully Responsive
