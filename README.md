@@ -3,6 +3,8 @@ Simple Portfolio Site
 ## To Do
 - drop in my content 
 - reformat skills section to two columns - should be simple 2 div flexbox situation 
+- try project section as full width? 
+- add bit at bottom of about me "i am a creative problem solver, interested in the roots of things, collaborator
 - Change font 
 - update site title + favicon
 - Update readme 
